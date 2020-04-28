@@ -1,0 +1,1 @@
+conda activate env1 & python nail.py train --dataset=Mask_RCNN/datasets/nail --weights=Mask_RCNN/nail.h5
